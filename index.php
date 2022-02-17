@@ -100,7 +100,7 @@
 											<label>photo</label>
                                            
  
-												<input type="text" class="form-control"   value="<?php echo $fetch['photo']?>" name="photo"/>
+											 <input type="file"  class="form-control"  name="photo" value="<?php echo $fetch['photo']?>">
 										</div>
 										 
 									</div>
